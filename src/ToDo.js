@@ -62,7 +62,7 @@ function Todo() {
             +
           </button>
         </header>
-        {/* <TodoForm onAddItem={onAddItem}></TodoForm> */}
+
         <List
           itemFeito={itemFeito}
           itemDeleted={itemDeleted}
